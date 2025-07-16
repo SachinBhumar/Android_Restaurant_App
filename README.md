@@ -75,15 +75,18 @@ To add screenshots:
 
 Example links (replace with your actual image names):
 
-![Home Screen](screenshots/home_screen.png)
-![Cart Screen](screenshots/cart_screen.png)
-![Order Success Dialog](screenshots/order_success.png)
+![Home Screen](<img width="294" height="648" alt="Screenshot 2025-07-16 at 12 54 04 PM" src="https://github.com/user-attachments/assets/5d0043e6-3a65-4f4a-a554-98612de60a70" />
+)
+![Cart Screen](<img width="294" height="650" alt="Screenshot 2025-07-16 at 12 54 24 PM" src="https://github.com/user-attachments/assets/d8f4dce0-a277-4696-9d23-9a3fb9a5d46f" />
+)
+![Order Success Dialog](<img width="290" height="650" alt="Screenshot 2025-07-16 at 12 55 42 PM" src="https://github.com/user-attachments/assets/a54d2985-cc23-4387-999f-d2b2c101d1aa" />
+
 
 ## Contact
 
-* Your Name - [Your Email](mailto:youremail@example.com)
-* Your GitHub Profile - [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn Profile (Optional) - [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/yourprofile/)
+* Sachin S Bhumar - (mailto:sachinbhumarjkd@gmail.com)
+* GitHub Profile - (https://github.com/SachinBhumar)
+* LinkedIn Profile  - (www.linkedin.com/in/sachin-s-bhumar-b12891262)
 
 ## License
 
