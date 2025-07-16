@@ -42,7 +42,7 @@ The app was developed with the original intent for seamless integration with bac
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/RestaurantApp.git](https://github.com/your-username/RestaurantApp.git)
+    git clone [https://github.com/SachinBhumar/RestaurantApp.git](https://github.com/SachinBhumar/RestaurantApp.git)
     ```
     (Replace `your-username` with your actual GitHub username and `RestaurantApp` with your repository name).
 2.  **Open in Android Studio:**
@@ -65,21 +65,9 @@ The app was developed with the original intent for seamless integration with bac
 
 ## Screenshots
 
-*(This section is crucial for a "nice" README!)*
-
-To add screenshots:
-1.  Create a folder named `screenshots` (or `images`) in the root of your project on your local machine.
-2.  Place your app screenshots (e.g., `home_screen.png`, `cart_screen.png`, `order_success.png`) into this folder.
-3.  Commit and push this `screenshots` folder along with your code to GitHub.
-4.  Then, update the paths below to link to them.
-
-Example links (replace with your actual image names):
-
-![Home Screen](<img width="294" height="648" alt="Screenshot 2025-07-16 at 12 54 04 PM" src="https://github.com/user-attachments/assets/5d0043e6-3a65-4f4a-a554-98612de60a70" />
-)
 ![Cart Screen](<img width="294" height="650" alt="Screenshot 2025-07-16 at 12 54 24 PM" src="https://github.com/user-attachments/assets/d8f4dce0-a277-4696-9d23-9a3fb9a5d46f" />
 )
-![Order Success Dialog](<img width="290" height="650" alt="Screenshot 2025-07-16 at 12 55 42 PM" src="https://github.com/user-attachments/assets/a54d2985-cc23-4387-999f-d2b2c101d1aa" />
+
 
 
 ## Contact
@@ -91,4 +79,4 @@ Example links (replace with your actual image names):
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-*(If you want to include a license, create a new file named `LICENSE` in your project's root directory and paste the MIT License text into it. You can find the MIT License text easily online.)*
+
