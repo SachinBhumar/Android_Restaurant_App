@@ -1,0 +1,12 @@
+<resources>
+
+        <string name="app_name">RestaurantApp</string>
+        <string name="language_button">English</string>
+        <string name="go_to_cart">Go to Cart</string>
+        <string name="home_title">Home</string>
+        <string name="cuisine_categories_title">Cuisine Categories</string>
+        <string name="top_dishes_title">Top Dishes</string>
+        <string name="total_label">Total</string>
+        <string name="place_order_button">Place Order</string>
+
+</resources>
