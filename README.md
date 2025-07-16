@@ -44,7 +44,7 @@ The app was developed with the original intent for seamless integration with bac
     ```bash
     git clone [https://github.com/SachinBhumar/RestaurantApp.git](https://github.com/SachinBhumar/RestaurantApp.git)
     ```
-    (Replace `your-username` with your actual GitHub username and `RestaurantApp` with your repository name).
+    
 2.  **Open in Android Studio:**
     * Launch Android Studio.
     * Select `Open an existing Android Studio project`.
